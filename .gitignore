@@ -14,6 +14,7 @@ UI/__pycache__
 html/
 save_data
 *.jpg
+*.png
 *.xlsx
 # Distribution / packaging
 .Python
