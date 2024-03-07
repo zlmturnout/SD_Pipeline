@@ -6,6 +6,11 @@ UI/__pycache__
 *.safetensors
 # C extensions
 *.so
+*.png
+*.bin
+*.jpg
+*.ckpt
+
 
 # gitignore
 #.gitignore
